@@ -74,6 +74,6 @@ public int generareValoareRandomSub5() {
 		}catch(Exception e) {
 			fail("Testul a esuat din alt motiv");
 		}
-		
+	}
 	
 }
