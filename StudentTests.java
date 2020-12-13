@@ -60,14 +60,4 @@ public int generareValoareRandomSub5() {
 	}
 	
 	
-	
-	
-		
-		
-		
-	}
-	
-	
-	
-	
 }
