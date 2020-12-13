@@ -9,7 +9,7 @@ import org.junit.Test;
 import junit.framework.TestCase;
 
 
-public class TestCaseStudent extends TestCase {
+public class StudentTests extends TestCase {
 	Student student;
 	public void testAddNotaRandom() throws IllegalArgumentException {
 		Random rand=new Random();
