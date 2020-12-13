@@ -23,7 +23,7 @@ public class StudentTests extends TestCase {
 		student.addNota(valoareNormala);
 		assertEquals(valoareNormala,student.getNota(0));		
 	}
-	public TestCaseStudent(String name) {
+	public StudentTests(String name) {
 		super(name);
 	}
 
